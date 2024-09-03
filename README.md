@@ -20,4 +20,4 @@ Scapy kütüphanesini kullanarak rastgele Ethernet ve IP paketleri üretir ve bi
 sudo python3 Macof.py
 ```
 
- Bu script, eğitim amaçlıdır. Yalnızca yetkili olduğunuz ağlarda kullanın. İzinsiz kullanımı yasa dışıdır.
+ Bu script, eğitim amaçlıdır. Yalnızca yetkili olduğunuz ağlarda kullanın.
